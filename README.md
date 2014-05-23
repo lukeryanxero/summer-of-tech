@@ -1,6 +1,6 @@
-summer-of-tech
+Summer of Tech
 ==============
 
 Repository containing content for the summer of tech source control 101 session.
 
-Zong Chen - @easoncxz
+Prepared by Zong - @easoncxz
