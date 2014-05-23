@@ -1,6 +1,6 @@
 summer-of-tech
 ==============
-
+#This is a comment
 Repository containing content for the summer of tech source control 101 session.
 
 
